@@ -516,11 +516,11 @@ setTimeout(() => {a({body: `${n} BAAP TO BAAP RAHEGA BETA JOR LAGA LE TU KITNI T
 
   
 
- setTimeout(() => {a({body: "NIKAL MADHARCHOD RANDI K PILLE"})} , 1500);
+ // setTimeout(() => {a({body: "NIKAL MADHARCHOD RANDI K PILLE"})} , 1500);
 
 
   } , 72*r);
 
   
- }
+ // }
 }
