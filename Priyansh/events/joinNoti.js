@@ -35,7 +35,7 @@ module.exports.run = async function({ api, event }) {
 
 𝑭𝑨𝑪𝑬𝑩𝑶𝑶𝑲 𝑳𝑰𝑵𝑲 :☞ https://www.facebook.com/profile.php?id=61577417285926
 
-𝑰𝑵𝑺𝑻𝑨𝑮𝑹𝑨𝑴 𝑳𝑰𝑵𝑲 :☞ https://www.instagram.com/nk_lovely_143_1?igsh=OXY4eDBsbzEzMnVr \n🌹💚✨═════••●●═════🌸🌺═════●●••═════✨💚🌹\n\n𝗽𝗿𝗲𝗳𝗶𝘅 => 👉 .{global.config.PREFIX} 👈\n🌹💚✨═════••●●═════🌸🌺═════●●••═════✨💚🌹           ╔═━━━━✦🖤✦━━━━═╗
+𝑰𝑵𝑺𝑻𝑨𝑮𝑹𝑨𝑴 𝑳𝑰𝑵𝑲 :☞ https://www.instagram.com/nk_lovely_143_1?igsh=OXY4eDBsbzEzMnVr \n🌹💚✨═════••●●═════🌸🌺═════●●••═════✨💚🌹\n\n𝗽𝗿𝗲𝗳𝗶𝘅 => 👉 .{global.config.PREFIX} 👈\n🌹💚✨═════••●●═════🌸🌺═════●●••═════✨💚🌹          ╔═━━━━✦🖤✦━━━━═╗
 🔥       𝑵𝑲 𝑩𝑶𝑻     🔥
 ╚═━━━━✦🖤✦━━━━═╝
 
